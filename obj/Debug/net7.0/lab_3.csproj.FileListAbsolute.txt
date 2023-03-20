@@ -1,0 +1,15 @@
+/Users/poideeira/Projects/lab_3/lab_3/bin/Debug/net7.0/lab_3
+/Users/poideeira/Projects/lab_3/lab_3/bin/Debug/net7.0/lab_3.deps.json
+/Users/poideeira/Projects/lab_3/lab_3/bin/Debug/net7.0/lab_3.runtimeconfig.json
+/Users/poideeira/Projects/lab_3/lab_3/bin/Debug/net7.0/lab_3.dll
+/Users/poideeira/Projects/lab_3/lab_3/bin/Debug/net7.0/lab_3.pdb
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.csproj.AssemblyReference.cache
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.AssemblyInfoInputs.cache
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.AssemblyInfo.cs
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.csproj.CoreCompileInputs.cache
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.dll
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/refint/lab_3.dll
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.pdb
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/lab_3.genruntimeconfig.cache
+/Users/poideeira/Projects/lab_3/lab_3/obj/Debug/net7.0/ref/lab_3.dll
